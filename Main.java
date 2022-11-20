@@ -11,6 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //REMEMBER TO CHANGE THIS DIRECTORY. CHECK IF WORKS ON LOCAL MACHINE
         String ventasFile = "/workspaces/InterfazPerfumes/Ventas.csv";
         String line = "";
 
